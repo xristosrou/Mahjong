@@ -1,0 +1,20 @@
+      body  {
+           background-image:url("shanghai_bg.gif");
+      }
+      table {
+          margin-left:auto; 
+          margin-right:auto;
+          background-color:#808080;
+      }
+      img{
+         opacity:0.5;
+      }        
+     .image{
+        opacity:1.0;
+      }
+	
+	tr,td {
+		border: 0px;
+	}
+     
+   
